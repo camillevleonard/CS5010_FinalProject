@@ -1,5 +1,13 @@
 # cs5010SP. Drug Awareness Response Tool (DART).
 
+# Contributors
+* Matt Dakolios
+* Darren Frye 
+* Paul Hicks
+* Camille Leonard 
+* Sudhanshu Luthra
+
+
 ## Table of Contents.
 * Intro
 * Technologies used
